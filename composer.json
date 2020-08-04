@@ -1,4 +1,13 @@
 {
+  "name": "fjzubi/toolsTest",
+  "description": "Hash de token middleware",
+  "authors": [
+      {
+          "name": "Francisco Zubizarreta",
+          "email": "francisco.zubizarreta@avature.net"
+      }
+  ],
+  "minimum-stability": "dev",
   "require": {
     "monolog/monolog": "^1.25",
     "slim/slim": "3.*"
